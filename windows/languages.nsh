@@ -284,6 +284,24 @@ LangString FILE_Html ${LANG_SWEDISH} "HTML-fil"
 LangString TITLE_SecThemes ${LANG_SWEDISH} "Teman"
 LangString DESC_SecThemes ${LANG_SWEDISH} "Ytterligare teman för QupZilla"
 
+;;;;Hungarian
+LangString TITLE_SecMain ${LANG_HUNGARIAN} "Fő programösszetevők"
+LangString TITLE_SecTranslations ${LANG_HUNGARIAN} "Nyelvi fordítások"
+LangString TITLE_SecPlugins ${LANG_HUNGARIAN} "Bővítmények"
+LangString TITLE_SecDesktop ${LANG_HUNGARIAN} "Asztali ikon"
+LangString TITLE_SecExtensions ${LANG_HUNGARIAN} "Fájl társítások"
+LangString TITLE_SecThemes ${LANG_HUNGARIAN} "Böngésző kinézetek"
+
+LangString FILE_Htm ${LANG_HUNGARIAN} "HTM Fájl"
+LangString FILE_Html ${LANG_HUNGARIAN} "HTML Fájl"
+;
+LangString DESC_SecMain ${LANG_HUNGARIAN} "A program fő alkotóelemei."
+LangString DESC_SecTranslations ${LANG_HUNGARIAN} "Az alapértelmezett nyelv az angol. Más nyelvi fordításokat telepíteni kell."
+LangString DESC_SecPlugins ${LANG_HUNGARIAN} "Egyéb bővítményeket is lehet telepíteni."
+LangString DESC_SecDesktop ${LANG_HUNGARIAN} "Parancsikon az Asztalra."
+LangString DESC_SecExtensions ${LANG_HUNGARIAN} "A QupZilla társítása a .htm és .html fájlok megnyitására"
+LangString DESC_SecThemes ${LANG_HUNGARIAN} "További böngésző kinézetek a QupZillához"
+
 ;;;;;;;;;
 ;;;;;;;;;
 ; Unfinished translations
